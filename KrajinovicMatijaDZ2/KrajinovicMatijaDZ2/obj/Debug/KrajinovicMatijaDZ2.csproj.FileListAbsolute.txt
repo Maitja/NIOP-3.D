@@ -1,0 +1,7 @@
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\bin\Debug\KrajinovicMatijaDZ2.exe.config
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\bin\Debug\KrajinovicMatijaDZ2.exe
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\bin\Debug\KrajinovicMatijaDZ2.pdb
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\obj\Debug\KrajinovicMatijaDZ2.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\obj\Debug\KrajinovicMatijaDZ2.exe
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\obj\Debug\KrajinovicMatijaDZ2.pdb
+C:\Users\kraji\source\repos\KrajinovicMatijaDZ2\KrajinovicMatijaDZ2\obj\Debug\KrajinovicMatijaDZ2.csprojAssemblyReference.cache
