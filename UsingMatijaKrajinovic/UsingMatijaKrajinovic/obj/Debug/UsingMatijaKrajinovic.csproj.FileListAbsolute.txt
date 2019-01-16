@@ -1,0 +1,7 @@
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\obj\Debug\UsingMatijaKrajinovic.csprojResolveAssemblyReference.cache
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\obj\Debug\UsingMatijaKrajinovic.csproj.CoreCompileInputs.cache
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\bin\Debug\UsingMatijaKrajinovic.exe.config
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\bin\Debug\UsingMatijaKrajinovic.exe
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\bin\Debug\UsingMatijaKrajinovic.pdb
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\obj\Debug\UsingMatijaKrajinovic.exe
+c:\users\učenik\source\repos\UsingMatijaKrajinovic\UsingMatijaKrajinovic\obj\Debug\UsingMatijaKrajinovic.pdb
