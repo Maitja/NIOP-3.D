@@ -1,0 +1,11 @@
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\bin\Debug\TrackBarKrajinovicMatija.exe.config
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\bin\Debug\TrackBarKrajinovicMatija.exe
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\bin\Debug\TrackBarKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.Form1.resources
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.Properties.Resources.resources
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.csproj.GenerateResource.cache
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.exe
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\TrackBarKrajinovicMatija\TrackBarKrajinovicMatija\obj\Debug\TrackBarKrajinovicMatija.Form2.resources

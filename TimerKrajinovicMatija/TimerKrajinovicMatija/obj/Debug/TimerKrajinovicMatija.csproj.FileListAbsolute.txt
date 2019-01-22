@@ -1,0 +1,11 @@
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\bin\Debug\TimerKrajinovicMatija.exe.config
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\bin\Debug\TimerKrajinovicMatija.exe
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\bin\Debug\TimerKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.Form1.resources
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.Properties.Resources.resources
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.csproj.GenerateResource.cache
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.exe
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\TimerKrajinovicMatija\TimerKrajinovicMatija\obj\Debug\TimerKrajinovicMatija.Form2.resources
