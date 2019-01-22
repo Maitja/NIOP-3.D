@@ -1,0 +1,11 @@
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\bin\Debug\ImageListKrajinovicMatija.exe.config
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\bin\Debug\ImageListKrajinovicMatija.exe
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\bin\Debug\ImageListKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.Form1.resources
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.Properties.Resources.resources
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.csproj.GenerateResource.cache
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.exe
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\ImageListKrajinovicMatija\ImageListKrajinovicMatija\obj\Debug\ImageListKrajinovicMatija.Form2.resources

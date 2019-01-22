@@ -1,0 +1,11 @@
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\bin\Debug\PictureBoxKrajinovicMatija.exe.config
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\bin\Debug\PictureBoxKrajinovicMatija.exe
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\bin\Debug\PictureBoxKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.Form1.resources
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.Properties.Resources.resources
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.csproj.GenerateResource.cache
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.exe
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.pdb
+C:\Users\kraji\source\repos\PictureBoxKrajinovicMatija\PictureBoxKrajinovicMatija\obj\Debug\PictureBoxKrajinovicMatija.Form2.resources
