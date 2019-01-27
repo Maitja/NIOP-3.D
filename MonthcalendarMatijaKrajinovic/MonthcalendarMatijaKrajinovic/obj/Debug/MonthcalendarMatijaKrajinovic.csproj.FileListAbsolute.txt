@@ -1,0 +1,21 @@
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.exe.config
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.exe
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.pdb
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.Form1.resources
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.Properties.Resources.resources
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csproj.GenerateResource.cache
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.exe
+C:\Users\kraji\source\repos\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.pdb
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.exe.config
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.exe
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\bin\Debug\MonthcalendarMatijaKrajinovic.pdb
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csprojAssemblyReference.cache
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.Form1.resources
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.Properties.Resources.resources
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csproj.GenerateResource.cache
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.csproj.CoreCompileInputs.cache
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.exe
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.pdb
+E:\Garbage\3.D NiOP\MonthcalendarMatijaKrajinovic\MonthcalendarMatijaKrajinovic\obj\Debug\MonthcalendarMatijaKrajinovic.Form3.resources
