@@ -1,0 +1,11 @@
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.AssemblyInfoInputs.cache
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.AssemblyInfo.cs
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\bin\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.deps.json
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\bin\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.runtimeconfig.json
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\bin\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.runtimeconfig.dev.json
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\bin\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.dll
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\bin\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.pdb
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.dll
+C:\Users\Ucenik\source\repos\KrajinovicMatijaKlaseitd\KrajinovicMatijaKlaseitd\obj\Debug\netcoreapp2.0\KrajinovicMatijaKlaseitd.pdb
