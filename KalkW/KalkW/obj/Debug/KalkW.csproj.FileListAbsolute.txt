@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\KalkW\KalkW\bin\Debug\KalkW.exe.config
+C:\Users\Ucenik\source\repos\KalkW\KalkW\bin\Debug\KalkW.exe
+C:\Users\Ucenik\source\repos\KalkW\KalkW\bin\Debug\KalkW.pdb
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.Form1.resources
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.csproj.GenerateResource.Cache
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.exe
+C:\Users\Ucenik\source\repos\KalkW\KalkW\obj\Debug\KalkW.pdb

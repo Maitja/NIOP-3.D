@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Kalk\Kalk\obj\Debug\Kalk.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\Kalk\Kalk\obj\Debug\Kalk.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Kalk\Kalk\bin\Debug\Kalk.exe.config
+C:\Users\Ucenik\source\repos\Kalk\Kalk\bin\Debug\Kalk.exe
+C:\Users\Ucenik\source\repos\Kalk\Kalk\bin\Debug\Kalk.pdb
+C:\Users\Ucenik\source\repos\Kalk\Kalk\obj\Debug\Kalk.exe
+C:\Users\Ucenik\source\repos\Kalk\Kalk\obj\Debug\Kalk.pdb
